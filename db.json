@@ -1,0 +1,53 @@
+{
+  "productos": [
+    {
+      "imageUrl": "/src/img/clon.png",
+      "name": "Soporte para monitor y portátil ",
+      "price": "$60.00",
+      "category": "otros",
+      "description": "Soporte para monitor y portátil con bandeja para portátil de 13 a 27 pulgadas, soporte de escritorio totalmente ajustable para portátil de hasta 17 pulgadas, peso de hasta 22 libras, extensión con abrazadera y base de montaje con ojal",
+      "id": "20a7432e-271d-4187-b56a-a64880503002"
+    },
+    {
+      "imageUrl": "/src/img/clon.png",
+      "name": "Alfombrilla de mouse LED RGB para juegos",
+      "price": "$10.00",
+      "category": "Selecciona la seccion",
+      "description": "EUREKA ERGONOMIC Alfombrilla de mouse LED RGB para juegos, XXL, grande, extendida, para oficina, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, computadora, alfombrilla de mouse con base de goma antideslizante, negro y verde MARRS, 31.5 x 11.8 pulgadas",
+      "id": "102e2a6e-686b-4c63-a922-49a0d000e6f3"
+    },
+    {
+      "imageUrl": "/src/img/clon.png",
+      "name": "Alfombrilla de ratón para juegos, tamaño XXL",
+      "price": "$10.00",
+      "category": "Selecciona la seccion",
+      "description": "Tamaño grande: el grosor de la alfombrilla de ratón es de 0.118 in para mejorar la comodidad de la muñeca. El tamaño de 31.5 x 11.8 pulgadas se adapta perfectamente a tu escritorio. Esta gran alfombrilla de ratón para juegos se adapta perfectamente a tu teclado y ratón, y también hay espacio adicional para periféricos como teléfonos y tabletas.\nBase de goma antideslizante: sombreado denso y base de goma antideslizante que proporcionan un agarre pesado que evita el deslizamiento o el movimiento de las alfombrillas de mouse, te ofrece un funcionamiento estable y te permite mover libremente tu mouse sin interrupciones, disponible para cualquier superficie plana y dura de mesa.",
+      "id": "41c776dd-ed2d-4ecd-95d8-4d33ef0c13ac"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "name": "asdasd",
+      "id": "_CnCWpZ"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "name": "asas",
+      "id": "OISEDPO"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "name": "asdas",
+      "id": "uMfa5OF"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "name": "asdasd",
+      "id": "VRuYSaw"
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg",
+      "name": "hlassss",
+      "id": "pgYNETR"
+    }
+  ]
+}
