@@ -1,12 +1,12 @@
 import { Home } from "../views/home.js";
 
-export function Router(hash){
+export async function Router(hash){
     const root = document.getElementById("root")
     root.innerHTML = ""
     switch (hash) {
         case "":
         case "#/":
-            root.innerHTML = Home()
+            root.innerHTML = await Home()
             break;
         case "#/about":
             root.innerHTML = "<h2>Estoy en About</h2>"
