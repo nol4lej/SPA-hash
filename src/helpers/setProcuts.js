@@ -1,4 +1,4 @@
-import { cardProducts } from "../components/cardProcuts.js"
+import { cardProduct } from "../components/cardProcuts.js"
 import {fetchProducts} from "./getProductos.js"
 
 export async function renderProducts(){
@@ -6,9 +6,14 @@ export async function renderProducts(){
     
     const arrayProductos = productos.map(producto => {
         const { imageUrl, name } = producto
-        const contenedor = cardProducts(imageUrl, name)
+        // const contenedor = cardProducts(imageUrl, name)
+        const contenedor = `
+            <product-item title="${name}" imageSrc="${imageUrl}"></product-item>
+        `
         return contenedor
     })
-    const sinComasArray = arrayProductos.join("")
-    return sinComasArray;
+    const prod = document.createElement("div")
+    prod.innerHTML = arrayProductos
+
+    return prod;
 }
